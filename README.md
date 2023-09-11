@@ -9,3 +9,7 @@ Tão pratico que apenas executo meu arquivo ".exe" e ele ja baixa todos os meus 
 
 ![pasta_codigo](https://github.com/Lobiiscoito/email_dowload_.xml/assets/81110350/1db62bd9-1277-4dde-a830-f7f355a6850e)
 
+Os arquivos .xml dentro da pasta DPK:
+
+![dpk_pasta](https://github.com/Lobiiscoito/email_dowload_.xml/assets/81110350/b03a3e32-c039-49b3-8032-7e0bf6a97666)
+
